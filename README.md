@@ -3,9 +3,7 @@
 <p>I'm an ambitious, problem-solving full-stack developer looking to join an organization. For me, Everything started with a passion for web technologies. It has been 4 years as a Web Developer & Designer in Various Companies also working as a freelancer. Always seeking opportunities that enable me to grow as an individual and to be a part something that is really inspiring.</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
- <ul style="list-style:none">
-     <table border="0" style="border-none">
-      <td>   
+ <ul style="list-style:none;padding:0rem;">
        <li>
         <h3>Front End Skills</h3>
          <ul>
@@ -16,8 +14,6 @@
            <li>Version Control (GIT)
         </ul>
        </li>
-      </td>
-      <td>
        <li>
         <h3>Back End Skills</h3>
          <ul>
@@ -27,7 +23,5 @@
            <li>Python and Django</li>
         </ul>
        </li>
-      </td>
-     </table>
    </ul>
 </p>
