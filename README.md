@@ -5,7 +5,7 @@
 <p align="left">  
  <ul style="display:flex">
    <li>
-     <h3>Fornt End Skills</h3>
+     <h3>Front End Skills</h3>
       <ul>
         <li>HTML5, Template Engines(Pug, HandleBars)</li>
         <li>CSS & SASS CSS FRAMEWORKS(Bootstrap, Tailwind,...)</li>
