@@ -7,8 +7,8 @@
    <li>
      <h3>Front End Skills</h3>
       <ul>
-        <li>HTML5, Template Engines(Pug, HandleBars)</li>
-        <li>CSS & SASS CSS FRAMEWORKS(Bootstrap, Tailwind,...)</li>
+        <li>HTML5, Template Engines (Pug, HandleBars)</li>
+        <li>CSS & SASS CSS FrameWorks (Bootstrap, Tailwind,...)</li>
         <li>JavaScript</li>
         <li>REACT & NEXTJS</li>
         <li>Version Control (GIT)
