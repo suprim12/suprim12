@@ -10,7 +10,7 @@
            <li>HTML5, Template Engines (Pug, HandleBars)</li>
            <li>CSS & SASS CSS FrameWorks (Bootstrap, Tailwind,...)</li>
            <li>JavaScript</li>
-           <li>REACT & NEXTJS</li>
+           <li>React & NextJs</li>
            <li>Version Control (GIT) </li>
            <li>Figma & Adobe XD (Web Design and App) </li>
          </ul>
