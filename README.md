@@ -1,6 +1,6 @@
 <h1>👋, I'm Suprim Golay</h1>
 <p>Full Stack Developer Based In Nepal. </p>
-<p>I'm an ambitious, problem-solving full-stack developer looking to join an organization. For me, Everything started with a passion for web technologies. It has been 4 years as a Web Developer & Designer in Various Companies also working as a freelancer. Always seeking opportunities that enable me to grow as an individual and to be a part something that is really inspiring.</p>
+<p>I'm an ambitious, problem-solving full-stack developer looking to join an organization. For me, Everything started with a passion for web technologies. It has been over 4 years as a Software Developer in Various reputed Companies also working as a freelancer. Always seeking opportunities that enable me to grow as an individual and to be a part something that is really inspiring.</p>
 <h3 align="left">Languages and Tools (Skills):</h3>
 <p align="left">  
  <ul style="list-style:none;padding:0rem;">
@@ -18,10 +18,10 @@
        <li>
         <h3>Back End Skills</h3>
          <ul>
-           <li>PHP & MYSQL</li>
-           <li>PHP FRAMEWORK (WORDPRESS)</li>
-           <li>Nodejs (REST API)</li>
-           <li>Python & Django</li>
+           <li>PHP & MYSQL (WORDPRESS)</li>
+           <li>Nodejs (REST API, GraphQl Api)</li>
+           <li>Python & Django (DRF Rest Framework)</li>
+           <li>Database (mongodb, mysql, postgresSQL)</li>
         </ul>
        </li>
    </ul>
@@ -30,6 +30,9 @@
         <h3>Currently Focusing on</h3>
          <ul>
            <li>Flutter & Dart</li>
+        </ul>
+       <ul>
+           <li>Bug Bounty</li>
         </ul>
        </li>
    </ul>
