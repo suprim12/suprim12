@@ -26,21 +26,23 @@
        <li>
         <h3>Front End Skills</h3>
          <ul>
-           <li>HTML5, Template Engines (Pug, HandleBars)</li>
-           <li>CSS & SASS CSS FrameWorks (Bootstrap, Tailwind,...)</li>
+           <li>HTML5, Templating Engines (Pug, HandleBars, Jinja)</li>
+           <li>CSS3/ SASS(CSS Preprocessor) -  CSS FrameWorks (Bootstrap, Tailwind,...)</li>
            <li>JavaScript (React & NextJs)</li>
            <li>WebGl, ThreeJs / OGL, Gsap</li>
-           <li>Version Control (GIT) </li>
+           <li>PWA & SEO (Search Engine Optimization)</li>
+           <li>Version Control (Github) & Product Management </li>
            <li>Figma & Adobe XD (Web Design and App) </li>
+           <li>Canva & Crello (Marketing & Post Design) </li>
          </ul>
        </li>
        <li>
         <h3>Back End Skills</h3>
          <ul>
-           <li>PHP & MYSQL (WORDPRESS)</li>
+           <li>PHP & MySQL (WordPress Theme Development & Customization)</li>
            <li>Nodejs (REST API, GraphQl Api)</li>
            <li>Python & Django (DRF Rest Framework)</li>
-           <li>Database (mongodb, mysql, postgresSQL)</li>
+           <li>Database (NoSQL - mongodb, SQL - mysql, postgreSQL)</li>
         </ul>
        </li>
    </ul>
