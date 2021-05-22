@@ -32,7 +32,7 @@
            <li>HTML5, Template Engines (Pug, HandleBars)</li>
            <li>CSS & SASS CSS FrameWorks (Bootstrap, Tailwind,...)</li>
            <li>JavaScript (React & NextJs)</li>
-           <li>WebGl, ThreeJs, Gsap</li>
+           <li>WebGl, ThreeJs / OGL, Gsap</li>
            <li>Version Control (GIT) </li>
            <li>Figma & Adobe XD (Web Design and App) </li>
          </ul>
