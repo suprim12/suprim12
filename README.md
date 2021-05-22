@@ -49,9 +49,9 @@
    </ul>
     <ul style="list-style:none;padding:0rem;">
        <li>
-        <h3>Currently Focusing on</h3>
+        <h3>Currently Focusing on Learning: </h3>
          <ul>
-           <li>Flutter & Dart 
+           <li> 
             <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter">
             <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart">
           </li>
