@@ -39,8 +39,8 @@
        <li>
         <h3>Back End Skills</h3>
          <ul>
-           <li>PHP & MySQL (WordPress Theme Development & Customization)</li>
            <li>Nodejs (REST API, GraphQl Api)</li>
+           <li>PHP & MySQL (WordPress Theme Development & Customization)</li>
            <li>Python & Django (DRF Rest Framework)</li>
            <li>Database (NoSQL - mongodb, SQL - mysql, postgreSQL)</li>
         </ul>
