@@ -39,7 +39,7 @@
        <li>
         <h3>Back End Skills</h3>
          <ul>
-           <li>Nodejs (REST API, GraphQl Api)</li>
+           <li>Nodejs (REST API, GraphQl Api), Nestjs</li>
            <li>PHP & MySQL (WordPress Theme Development & Customization)</li>
            <li>Python & Django (DRF Rest Framework)</li>
            <li>Database (NoSQL - mongodb, SQL - mysql, postgreSQL)</li>
@@ -49,6 +49,7 @@
     <ul style="list-style:none;padding:0rem;">
        <li>
         <h3>In Free Time Learning: </h3>
+        <p>Devops & OWASP Bug Bounty</p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter">
         <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart">
        </li>
