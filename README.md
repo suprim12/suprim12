@@ -28,10 +28,10 @@
          <ul>
            <li>HTML5, Templating Engines (Pug, HandleBars, Jinja)</li>
            <li>CSS3/ SASS(CSS Preprocessor) -  CSS FrameWorks (Bootstrap, Tailwind,...)</li>
-           <li>JavaScript (React & NextJs)</li>
-           <li>WebGl, ThreeJs / OGL, Gsap</li>
+           <li>JavaScript (React & NextJs), Typescript</li>
+           <li>WebGl, ThreeJs / OGL, Gsap -  Creative Developer</li>
            <li>PWA & SEO (Search Engine Optimization)</li>
-           <li>Version Control (Github) & Product Management </li>
+           <li>Version Control (Github) & Product Management(Jira, Confluence) </li>
            <li>Figma & Adobe XD (Web Design and App) </li>
            <li>Canva & Crello (Marketing & Post Design) </li>
          </ul>
@@ -43,13 +43,13 @@
            <li>PHP & MySQL (WordPress Theme Development & Customization)</li>
            <li>Python & Django (DRF Rest Framework)</li>
            <li>Database (NoSQL - mongodb, SQL - mysql, postgreSQL)</li>
+           <li>DevOps(Docker, Kubernetes) and AWS CLI</li>
         </ul>
        </li>
    </ul>
     <ul style="list-style:none;padding:0rem;">
        <li>
         <h3>In Free Time Learning: </h3>
-        <p>Devops & OWASP Bug Bounty</p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter">
         <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart">
        </li>
