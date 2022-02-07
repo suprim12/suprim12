@@ -41,7 +41,7 @@
          <ul>
            <li>Nodejs (REST API, GraphQl Api), Nestjs</li>
            <li>PHP & MySQL (WordPress Theme Development & Customization)</li>
-           <li>Python & Django (DRF Rest Framework)</li>
+           <li>Python & Django (DRF Rest Framework, FastApi)</li>
            <li>Database (NoSQL - mongodb, SQL - mysql, postgreSQL)</li>
            <li>DevOps(Docker, Kubernetes) and AWS CLI</li>
         </ul>
