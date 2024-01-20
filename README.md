@@ -1,6 +1,6 @@
 ### Hi there, I'm Suprim 👋
-- 👩🏻‍💻 Full Stack Developer Based In Nepal.
-- 🌱 I'm an ambitious, problem-solving full-stack developer looking to join an organization. For me, Everything started with a passion for web technologies. It has been over 5 years as a Software Developer in Various reputed Companies also working as a freelancer. Always seeking opportunities that enable me to grow as an individual and to be a part something that is really inspiring.
+- 👩🏻‍💻 Full Stack Developer Based In Australia.
+- 🌱 I'm an ambitious, problem-solving full-stack developer looking to join an organization. For me, Everything started with a passion for web technologies. It has been over +7 years as a Software Developer in Various reputed Companies also working as a freelancer. Always seeking opportunities that enable me to grow as an individual and to be a part something that is really inspiring.
 
 
 ### Languages and Tools:
@@ -27,22 +27,23 @@
          <ul>
            <li>HTML5, Templating Engines (Pug, HandleBars, Jinja)</li>
            <li>CSS3/ SASS(CSS Preprocessor) -  CSS FrameWorks (Bootstrap, Tailwind,...)</li>
-           <li>JavaScript (React & NextJs), Typescript</li>
-           <li>WebGl, ThreeJs / OGL, Gsap -  Creative Developer</li>
-           <li>PWA & SEO (Search Engine Optimization)</li>
-           <li>Version Control (Github) & Product Management(Jira, Confluence) </li>
-           <li>Figma & Adobe XD (Web Design and App) </li>
+           <li>JavaScript (Reactjs & NextJs), Typescript, ReactNative</li>
+           <li>WebGl, ThreeJs / OGL, Gsap (shaders) -  Creative Developer</li>
+           <li>PWA & SEO (Search Engine Optimization) - workbox</li>
+           <li>Version Control (Github) & Product Management (Jira, Confluence) </li>
+           <li>Figma & Adobe XD (Web Design - Mockups and App) </li>
            <li>Canva & Crello (Marketing & Post Design) </li>
          </ul>
        </li>
        <li>
         <h3>Back End Skills</h3>
          <ul>
-           <li>Nodejs (REST API, GraphQl Api), Nestjs</li>
+           <li>Nodejs (Api development), Nestjs</li>
+           <li>Craft cms</li>
            <li>PHP & MySQL (WordPress Theme Development & Customization)</li>
            <li>Python & Django (DRF Rest Framework, FastApi)</li>
            <li>Database (NoSQL - mongodb, SQL - mysql, postgreSQL)</li>
-           <li>DevOps(Docker, Kubernetes) and AWS CLI</li>
+           <li>DevOps (Docker, Kubernetes) and AWS CI/CD, Azure pipline CI/CD -> Build, Release Pipeline </li>
         </ul>
        </li>
    </ul>
