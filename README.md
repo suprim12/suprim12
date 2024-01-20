@@ -56,7 +56,8 @@
    </ul>
 </p>
 
+<!---
 <img src="https://github-readme-stats.vercel.app/api?username=suprim12&theme=blue-green" alt="repo">
-
+-->
 
 [website]: https://suprimgolay.com.np
