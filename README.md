@@ -49,12 +49,10 @@
         </ul>
        </li>
    </ul>
-    <ul style="list-style:none;padding:0rem;">
+    <!-- <ul style="list-style:none;padding:0rem;">
        <li>
         <h3>In Free Time Learning: </h3>
-     
-       </li>
-   </ul>
+   </ul> -->
 </p>
 
 <!---
