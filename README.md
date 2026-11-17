@@ -1,6 +1,6 @@
 ### Hi there, I'm Suprim 👋
 - 👩🏻‍💻 Full Stack Developer Based In Australia.
-- 🌱 I'm an ambitious, problem-solving software developer looking to join an organization. For me, Everything started with a passion for web technologies. It has been over +7 years as a Software Developer in Various reputed Companies also working as a freelancer. Always seeking opportunities that enable me to grow as an individual and to be a part something that is really inspiring.
+- 🌱 I'm an ambitious, problem-solving software developer looking to join an organization. For me, Everything started with a passion for web technologies. It has been over +10 years as a Software Developer in Various reputed Companies also working as a freelancer. Always seeking opportunities that enable me to grow as an individual and to be a part something that is really inspiring.
 
 
 ### Languages and Tools:
